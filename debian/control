@@ -1,0 +1,12 @@
+Source: python3-aiofile
+Maintainer: André Roth <neolynx@gmail.com>
+Section: python
+Priority: optional
+Build-Depends: debhelper (>= 7), dh-python, python3-setuptools, python3-all, git-core, cython3
+Standards-Version: 3.9.7
+Vcs-Browser: https://github.com/mosquito/aiofile
+
+Package: python3-aiofile
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Description: Real asynchronous file operations with asyncio support.
