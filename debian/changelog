@@ -1,3 +1,9 @@
+python3-aiofile (0.5.3-4) stable; urgency=medium
+
+  * bump version 0.5.3-4
+
+ -- André Roth <neolynx@gmail.com>  Sat, 13 Nov 2021 21:50:18 +0000
+
 python3-aiofile (0.5.3-3) stable; urgency=medium
 
   * debian: add missing build dependency
