@@ -1,3 +1,9 @@
+python3-aiofile (0.5.3-3.molior1) stable; urgency=medium
+
+  * bump version 0.5.3-3.molior1
+
+ -- André Roth <andre.roth@roche.com>  Fri, 04 Feb 2022 13:43:45 +0100
+
 python3-aiofile (0.5.3-3) stable; urgency=medium
 
   * debian: add missing build dependency
