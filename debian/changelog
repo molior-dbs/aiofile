@@ -1,3 +1,29 @@
+python3-aiofile (3.8.6-1) stable; urgency=medium
+
+  * python3-aiofile: release 0.5.3-5
+  * build for 1.5
+  * python3-aiofile: release 0.5.3-4
+  * build for bullseye
+  * python3-aiofile: release 0.5.3-3
+  * debian: add missing build dependency
+  * python3-aiofile: release 0.5.3-2
+  * debian: add missing build dependency
+  * python3-aiofile: release 0.5.3-1
+  * debianize
+  * bump to 3.8.8
+  * Merge pull request #85 from mosquito/feature/added-fsync-fdsync-and-
+    flush
+  * fixes
+  * fixes #83
+  * bump to 3.8.7
+  * bump to 3.8.6
+  * Add python 3.11 to setup.py
+  * Fix readme example
+  * Merge pull request #82 from yifeikong/patch-1
+  * ...
+
+ -- André Roth <andre.roth@roche.com>  Tue, 19 Dec 2023 18:24:58 +0100
+
 python3-aiofile (0.5.3-5) stable; urgency=medium
 
   * build for 1.5
