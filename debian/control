@@ -8,5 +8,5 @@ Vcs-Browser: https://github.com/mosquito/aiofile
 
 Package: python3-aiofile
 Architecture: all
-Depends: ${misc:Depends}, ${python:Depends}
+Depends: ${misc:Depends}, ${python:Depends}, python3-caio
 Description: Real asynchronous file operations with asyncio support.
