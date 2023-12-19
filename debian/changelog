@@ -1,3 +1,9 @@
+python3-aiofile (3.8.6-2) stable; urgency=medium
+
+  * fix debian build on bookworm
+
+ -- André Roth <andre.roth@roche.com>  Tue, 19 Dec 2023 18:53:48 +0100
+
 python3-aiofile (3.8.6-1) stable; urgency=medium
 
   * python3-aiofile: release 0.5.3-5
