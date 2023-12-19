@@ -1,3 +1,9 @@
+python3-aiofile (3.8.6-3) stable; urgency=medium
+
+  * bump version 3.8.6-3
+
+ -- André Roth <neolynx@gmail.com>  Tue, 19 Dec 2023 19:01:24 +0100
+
 python3-aiofile (3.8.6-2) stable; urgency=medium
 
   * fix debian build on bookworm
