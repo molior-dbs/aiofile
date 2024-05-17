@@ -3,4 +3,4 @@ targets:
   molior:
   - "1.5"
 build_after:
-  - "aiofile"
+  - "python3-caio"
