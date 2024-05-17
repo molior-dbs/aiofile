@@ -1,3 +1,9 @@
+python3-aiofile (3.8.8-molior6) stable; urgency=medium
+
+  * molior: add build oder dependency
+
+ -- André Roth <neolynx@gmail.com>  Fri, 17 May 2024 21:39:41 +0200
+
 python3-aiofile (3.8.8-molior5) stable; urgency=medium
 
   * build for molior/1.5
