@@ -1,3 +1,9 @@
+python3-aiofile (3.8.8-molior4) stable; urgency=medium
+
+  * debian: update roject version
+
+ -- André Roth <andre.roth@roche.com>  Wed, 24 Jun 2026 23:16:36 +0200
+
 python3-aiofile (3.8.8-molior3) stable; urgency=medium
 
   * debian/control: added python3-caio as an explicit dependency
